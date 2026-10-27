@@ -65,12 +65,12 @@ The script prints the gene symbol, NCBI Gene ID, transcript accession, protein a
 The workflow is designed to generate the following files:
 | File | Description |
 |---|---|
-| `data/ TNNI2_protein.fasta` | Retrieved reference protein sequence. |
-| `results/ gene_summary.txt` | Gene metadata and assigned variant information. |
-| `results/ protein_accession.txt` | Transcript and protein accession information. |
-| `results/ amino_acid_composition.csv` | Counts of the 20 standard amino acids. |
-| `figures/ 01_amino_acid_composition.png` | Bar chart of amino-acid composition. |
-| `figures/ 02_variant_position.png` | Linear map marking the variant position. |
+| `data/TNNI2_protein.fasta` | Retrieved reference protein sequence. |
+| `results/gene_summary.txt` | Gene metadata and assigned variant information. |
+| `results/protein_accession.txt` | Transcript and protein accession information. |
+| `results/amino_acid_composition.csv` | Counts of the 20 standard amino acids. |
+| `figures/01_amino_acid_composition.png` | Bar chart of amino-acid composition. |
+| `figures/02_variant_position.png` | Linear map marking the variant position. |
 
 ## (e) Variant Interpretation
 ### Variant Consequence
