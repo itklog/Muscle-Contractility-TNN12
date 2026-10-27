@@ -1,0 +1,4 @@
+Gene symbol: TNNI2
+NCBI Gene ID: 7136
+Official name: troponin I2, fast skeletal type
+Chromosome: 11
